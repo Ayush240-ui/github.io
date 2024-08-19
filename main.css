@@ -1,0 +1,26 @@
+.c {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  text-align: center;
+}
+header {
+  top: 0:
+  position: sticky;
+}
+#LOGO {
+  height:auto;
+}
+@media (orientation:landscape)
+{#LOGO {
+  width:5vw;
+}}
+@media (orientation:portrait)
+{#LOGO {
+  width:25vw;
+}}
+#python {
+  background-color: #D92B6E;
+  cursor: pointer;
+}
